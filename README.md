@@ -9,6 +9,5 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: USTH ICT1 
-* Student ID: Not-Vietnamese
-
+* Student Name: Vu Quang Tung
+* Student ID: 22BA13321
